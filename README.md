@@ -18,7 +18,7 @@ Codeforces 문제 풀이를 기록하는 알고리즘 학습 저장소입니다.
 
 초기에는 C 중심으로 풀이하고, STL과 알고리즘 활용이 필요한 문제부터 C++ 풀이를 병행합니다.
 
---with-ChatGPT(이 repository는 ChatGPT와 함께합니다--
+*with-ChatGPT(이 repository는 ChatGPT와 함께합니다*
 
 ## Repository Structure
 
